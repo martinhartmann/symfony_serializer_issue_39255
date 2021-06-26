@@ -1,0 +1,10 @@
+= symfony/serializer issue #32955 example project
+
+Issue: link:https://github.com/symfony/symfony/issues/39255[symfony/serializer#32955]
+
+== How to run
+
+[source,bash]
+....
+$ make
+....
